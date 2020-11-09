@@ -1,1 +1,13 @@
-# NEWS Dataset
+# NEWS Headlines Dataset
+
+a collection of news headlines from numerous sources selected randomly and an index of words in the article body with the number of occurrence.
+
+## Table Structure
+
+### ArticleURL
+![https://i.imgur.com/xFh4LGr.png](https://i.imgur.com/xFh4LGr.png)
+![https://i.imgur.com/6tbwqsP.png](https://i.imgur.com/6tbwqsP.png)
+
+### Wordlist
+![https://i.imgur.com/dkGeLRg.png](https://i.imgur.com/dkGeLRg.png)
+![https://i.imgur.com/I1RxekM.png](https://i.imgur.com/I1RxekM.png)
